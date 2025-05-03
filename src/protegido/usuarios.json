@@ -1,0 +1,12 @@
+[
+  {
+    "username": "Teste",
+    "email": "teste@teste.com",
+    "password": "123",
+    "saldo": 7402.6,
+    "indicou": "",
+    "codigo": "LA123456",
+    "pago": true,
+    "compras": []
+  }
+]

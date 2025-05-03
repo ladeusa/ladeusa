@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Carrinho</title>
+  <style>
+    body {
+      background-color: #1e1e2f;
+      color: #e2e2e2;
+      font-family: 'Poppins', sans-serif;
+      padding: 20px;
+    }
+
+    h2 {
+      color: #00bcd4;
+      margin-bottom: 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+      box-shadow: 0 0 10px rgba(179, 157, 219, 0.2);
+    }
+
+    th, td {
+      border: 1px solid #b39ddb;
+      padding: 12px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #2a2a3d;
+      color: #b39ddb;
+      font-weight: bold;
+    }
+
+    td {
+      background-color: #252537;
+    }
+
+    .btn-finalizar {
+      background-color: #00acc1;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    .btn-finalizar:hover {
+      background-color: #26c6da;
+    }
+
+    .vazio {
+      margin-top: 50px;
+      font-size: 1.2em;
+      text-align: center;
+      color: #b39ddb;
+    }
+  </style>
+</head>
+<body>
+  <h2>🛒 Meu Carrinho</h2>
+
+  <!-- Simulando um carrinho preenchido -->
+  <table>
+    <thead>
+      <tr>
+        <th>BIN</th>
+        <th>Bandeira</th>
+        <th>Nível</th>
+        <th>Valor (R$)</th>
+        <th>Remover</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>516292</td>
+        <td>Mastercard</td>
+        <td>PLATINUM</td>
+        <td>100.00</td>
+        <td><button>Remover</button></td>
+      </tr>
+      <tr>
+        <td>459383</td>
+        <td>Visa</td>
+        <td>CLASSIC</td>
+        <td>100.00</td>
+        <td><button>Remover</button></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <a href="#" class="btn-finalizar">Finalizar Compra</a>
+
+  <!-- Exemplo de carrinho vazio -->
+  <!-- <div class="vazio">Seu carrinho está vazio.</div> -->
+</body>
+</html>

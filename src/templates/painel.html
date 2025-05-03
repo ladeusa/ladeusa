@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel - LA DEUSA</title>
+  <style>
+    body {
+      background-color: #1e1e2f;
+      color: #e2e2e2;
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .cabecalho {
+      text-align: center;
+      font-size: 1.7em;
+      font-weight: 600;
+      margin-bottom: 30px;
+      color: #00bcd4;
+    }
+
+    .painel-box {
+      background-color: #2a2a3d;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 25px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    }
+
+    .painel-box h3 {
+      margin-top: 0;
+      color: #00bcd4;
+    }
+
+    .info {
+      font-size: 1.1em;
+      margin-bottom: 10px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background-color: #252537;
+      border-radius: 10px;
+      padding: 18px;
+      box-shadow: 0 0 6px rgba(0,0,0,0.2);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .card h4 {
+      margin-top: 0;
+      margin-bottom: 8px;
+      font-size: 1.1em;
+      color: #ffd54f;
+    }
+
+    .card p {
+      flex-grow: 1;
+      margin-bottom: 16px;
+    }
+
+    .card button {
+      background-color: #00acc1;
+      color: #fff;
+      border: none;
+      padding: 10px;
+      width: 100%;
+      border-radius: 6px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .card button:hover {
+      background-color: #26c6da;
+    }
+
+    .suporte-box {
+      margin-top: 35px;
+      text-align: center;
+    }
+
+    .suporte-box a {
+      background-color: #5c6bc0;
+      color: #fff;
+      padding: 12px 20px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      display: inline-block;
+      margin: 5px;
+    }
+
+    .suporte-box a:hover {
+      background-color: #7986cb;
+    }
+
+    .logout-btn {
+      background-color: #ff5c5c;
+      color: #fff;
+      padding: 12px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      display: inline-block;
+      margin-top: 20px;
+      transition: background 0.3s ease;
+    }
+
+    .logout-btn:hover {
+      background-color: #ff7878;
+    }
+
+    .codigo-indicacao {
+      background-color: #2a2a3d;
+      padding: 20px;
+      margin-top: 25px;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    }
+
+    .codigo-indicacao input {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      font-size: 0.95em;
+      border: none;
+      border-radius: 6px;
+    }
+
+    .codigo-indicacao button {
+      background-color: #00acc1;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      margin-top: 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    .codigo-indicacao button:hover {
+      background-color: #26c6da;
+    }
+  </style>
+</head>
+<body>
+  <div class="cabecalho">LA DEUSA</div>
+
+  <div class="painel-box">
+    <h3>👋 Bem-vindo(a), {{ usuario['username'] }}</h3>
+    <div class="info">💰 Seu saldo: R$ {{ "{:,.2f}".format(saldo|default(0)).replace(',', 'v').replace('.', ',').replace('v', '.') }}</div>
+    <div class="info">💳 Cartões Disponíveis: {{ total_bins }}</div>
+  </div>
+
+  <div class="cards">
+    <div class="card">
+      <h4>📦 Ver Catálogo</h4>
+      <p>Explore todas as BINs disponíveis para compra.</p>
+      <button onclick="window.location.href='/catalogo_bins'">Acessar</button>
+    </div>
+    <div class="card">
+      <h4>💳 Adicionar Saldo</h4>
+      <p>Adicione crédito para comprar BINs com BTC.</p>
+      <button onclick="window.location.href='/adicionar_saldo'">Adicionar</button>
+    </div>
+    <div class="card">
+      <h4>📁 Minhas Compras</h4>
+      <p>Consulte as BINs que você já adquiriu.</p>
+      <button onclick="window.location.href='/minhas_compras'">Ver Compras</button>
+    </div>
+  </div>
+
+  <div class="codigo-indicacao">
+    <h3>💸 Indique e Ganhe R$100</h3>
+    <p>Compartilhe este link e ganhe saldo por cada indicação:</p>
+    <input type="text" id="link-indicacao" value="https://ladeusabinshop.com/cadastro?indicacao={{ usuario['codigo'] }}" readonly>
+    <button onclick="copiarLink()">📋 Copiar Link</button>
+  </div>
+
+  <div class="suporte-box">
+    <a href="https://t.me/seu_usuario" target="_blank">💬 Suporte via Telegram</a>
+    <a href="{{ url_for('logout') }}" class="logout-btn">🚪 Sair</a>
+  </div>
+
+  <script>
+    function copiarLink() {
+      const input = document.getElementById('link-indicacao');
+      input.select();
+      input.setSelectionRange(0, 99999);
+      document.execCommand('copy');
+      alert('Link copiado com sucesso!');
+    }
+  </script>
+</body>
+</html>

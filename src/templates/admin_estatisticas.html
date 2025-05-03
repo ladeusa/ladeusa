@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Estatísticas Gerais</title>
+  <style>
+    body {
+      background-color: #111;
+      font-family: Arial, sans-serif;
+      color: #ddd;
+      margin: 0;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 22px;
+      color: #ccc;
+      font-weight: normal;
+      margin-bottom: 30px;
+    }
+
+    .stat-box {
+      background-color: #1c1c1c;
+      border: 1px solid #333;
+      border-radius: 8px;
+      padding: 15px 20px;
+      margin: 15px auto;
+      max-width: 400px;
+      font-size: 15px;
+      color: #eee;
+    }
+
+    .voltar {
+      display: inline-block;
+      margin-top: 30px;
+      text-decoration: none;
+      color: #ccc;
+      font-size: 14px;
+      border: 1px solid #444;
+      padding: 8px 16px;
+      border-radius: 6px;
+      transition: background-color 0.3s;
+    }
+
+    .voltar:hover {
+      background-color: #222;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Estatísticas Gerais</h1>
+
+  <div class="stat-box">
+    Total de Usuários: {{ total_usuarios }}
+  </div>
+
+  <div class="stat-box">
+    Saldo Geral: R$ {{ "%.2f"|format(saldo_total) }}
+  </div>
+
+  <div class="stat-box">
+    Pagamentos Recebidos: R$ {{ "%.2f"|format(total_pagamentos) }}
+  </div>
+
+  <div class="stat-box">
+    BINs Vendidas: {{ total_bins }}
+  </div>
+
+  <div class="stat-box">
+    Valor Total em Vendas: R$ {{ "%.2f"|format(total_valor_bins) }}
+  </div>
+
+  <a href="/admin/painel" class="voltar">← Voltar ao Painel</a>
+
+</body>
+</html>

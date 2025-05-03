@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LA DEUSA - LOGIN</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(rgba(10,10,15,0.94), rgba(5,5,10,0.94)), url('/static/img/bg_la_deusa.jpg') no-repeat center center fixed;
+      background-size: cover;
+      font-family: 'Poppins', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .login-container {
+      background: rgba(20, 20, 30, 0.85);
+      backdrop-filter: blur(10px);
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 0 25px rgba(0,0,0,0.8);
+      width: 100%;
+      max-width: 350px;
+    }
+    .login-container h2 {
+      margin-bottom: 30px;
+      color: #b39ddb;
+      font-size: 1.5em;
+      text-align: center;
+    }
+    input[type="text"], input[type="password"] {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 20px;
+      border: none;
+      border-radius: 8px;
+      background: #eeeeee;
+      font-size: 1em;
+      box-sizing: border-box;
+    }
+    .login-btn {
+      background-color: #5c6bc0;
+      color: white;
+      border: none;
+      width: 100%;
+      padding: 15px;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 1.2em;
+      cursor: pointer;
+      transition: background 0.3s ease;
+      margin-top: 20px;
+      box-sizing: border-box;
+    }
+    .login-btn:hover {
+      background-color: #7986cb;
+    }
+    .cadastro, .suporte {
+      margin-top: 20px;
+      text-align: center;
+    }
+    .cadastro a, .suporte a {
+      color: #b39ddb;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .cadastro a:hover, .suporte a:hover {
+      text-decoration: underline;
+    }
+    .flash-message {
+      margin-bottom: 20px;
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <h2>LA DEUSA</h2>
+
+    <!-- Adicionado: Mensagem de erro flash -->
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <div class="flash-message">
+          {% for message in messages %}
+            <p>{{ message }}</p>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    <form action="/login" method="POST">
+      <input type="text" name="email" placeholder="E-mail" required>
+      <input type="password" name="password" placeholder="Senha" required>
+      <button type="submit" class="login-btn">Entrar</button>
+    </form>
+
+    <div class="cadastro">
+      <a href="/cadastro">Cadastrar agora</a>
+    </div>
+
+    <div class="suporte">
+      <a href="https://t.me/seu_usuario" target="_blank">💬 Suporte via Telegram</a>
+    </div>
+  </div>
+</body>
+</html>

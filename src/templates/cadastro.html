@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro - LA DEUSA</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(rgba(10,10,15,0.94), rgba(5,5,10,0.94));
+      font-family: 'Poppins', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .cadastro-container {
+      background: rgba(20, 20, 30, 0.85);
+      backdrop-filter: blur(10px);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 25px rgba(0,0,0,0.8);
+      width: 100%;
+      max-width: 380px;
+      text-align: center;
+    }
+
+    .cadastro-container h2 {
+      margin-bottom: 20px;
+      color: #b39ddb;
+      font-size: 1.5em;
+    }
+
+    input[type="text"], input[type="email"], input[type="password"] {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      border: none;
+      border-radius: 8px;
+      background: #eeeeee;
+      font-size: 1em;
+      box-sizing: border-box;
+    }
+
+    .cadastro-btn {
+      background-color: #5c6bc0;
+      color: white;
+      border: none;
+      width: 100%;
+      padding: 12px;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 1.1em;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .cadastro-btn:hover {
+      background-color: #7986cb;
+    }
+
+    .login {
+      margin-top: 15px;
+    }
+
+    .login a {
+      color: #b39ddb;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .login a:hover {
+      text-decoration: underline;
+    }
+
+    .flash-message {
+      margin-top: 20px;
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="cadastro-container">
+    <h2>LA DEUSA</h2>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <div class="flash-message">
+          {% for message in messages %}
+            <p>{{ message }}</p>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    <form action="/cadastro" method="POST">
+      <input type="text" name="username" placeholder="Nome de Usuário" required>
+      <input type="email" name="email" placeholder="E-mail" required>
+      <input type="password" name="password" placeholder="Senha" required>
+      <input type="password" name="confirm_password" placeholder="Confirmar Senha" required>
+      <input type="text" name="codigo_indicacao" id="codigo_indicacao" placeholder="Código de Indicação">
+      <button type="submit" class="cadastro-btn">Cadastrar</button>
+    </form>
+
+    <div class="login">
+      <a href="/login">Já tem conta? Entrar</a>
+    </div>
+  </div>
+
+  <script>
+    // Preenche automaticamente o código se vier por parâmetro na URL
+    window.onload = function() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const codigo = urlParams.get('codigo');
+      if (codigo) {
+        document.getElementById('codigo_indicacao').value = codigo;
+      }
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,2690 @@
+[
+    {
+        "bin": "516292",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "422061",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498408",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "655007",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "444054",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "459383",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "520048",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "446690",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "477176",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "449137",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552637",
+        "bandeira": "CREDIT EXECUTIVE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "534696",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "523431",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "546316",
+        "bandeira": "CREDIT STANDARD MERRICK BANK CORPORATION UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "374769",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554906",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "406669",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "515590",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "444456",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "544300",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "533516",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "425850",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "490144",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "483150",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "466070",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "421958",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "478308",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "496045",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "553636",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "426175",
+        "bandeira": "DEBIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536119",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "530034",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "550209",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "546479",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "549167",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "499818",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "558763",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552289",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "230650",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "459080",
+        "bandeira": "CREDIT PLATINUM ITAU UNIBANCO, S.A.  BRASIL BR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552640",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "450634",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "441120",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "514945",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "553659",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "558120",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "534447",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "541555",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "540105",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "407838",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "525303",
+        "bandeira": "CREDIT STANDARD BANK OF SCOTLAND PLC UNITED KINGDOM GB",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "415275",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "521433",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "432958",
+        "bandeira": "CREDIT ELECTRON",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "531681",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554473",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "522840",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "415274",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "421960",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "524474",
+        "bandeira": "DEBIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "468212",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498431",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "456933",
+        "bandeira": "DEBIT BUSINESS TELLER, A.S. NORWAY NO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "535081",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "535016",
+        "bandeira": "PREPAID STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "371790",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "523421",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "476331",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "546616",
+        "bandeira": "CREDIT WORLD CITIBANK N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "542678",
+        "bandeira": "CREDIT GE CAPITAL BANK, LTD. UNITED KINGDOM GB",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "466057",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "406655",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "548083",
+        "bandeira": "CREDIT AFFINITY F.C.U. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "461807",
+        "bandeira": "CREDIT TRADITIONAL",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "553665",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "556615",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "414720",
+        "bandeira": "CREDIT CLASSIC CHASE BANK USA, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "542974",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "478309",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498556",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "512215",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498453",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "538164",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "230744",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "408194",
+        "bandeira": "CREDIT CITIBANK (SOUTH DAKOTA), N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "510197",
+        "bandeira": "CREDIT WORLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "417958",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552693",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "412451",
+        "bandeira": "DEBIT CLASSIC JPMORGAN CHASE BANK, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "407505",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "511913",
+        "bandeira": "CREDIT CHASE MANHATTAN BANK USA, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "522626",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "490172",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498406",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "547408",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "464611",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "464127",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "407843",
+        "bandeira": "PREPAID",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "410863",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "417401",
+        "bandeira": "PREPAID",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "485464",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516310",
+        "bandeira": "CREDIT BUSINESS WESTPAC BANKING CORPORATION AUSTRALIA AU",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "453211",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "515601",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "522590",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "512646",
+        "bandeira": "CREDIT PLATINIUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "438857",
+        "bandeira": "CREDIT CLASSIC CHASE BANK USA, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "546452",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552236",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "482425",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "527496",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "439267",
+        "bandeira": "DEBIT ELECTRON",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "522688",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554480",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "439701",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "414506",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554762",
+        "bandeira": "CREDIT MOSCOW NARODNY BANK LIMITED (MOSNAR BANK LIMITED) RUSSIAN FEDERATION RU",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552252",
+        "bandeira": "CREDIT BLACK ITAU CORPBANCA CHILE CL",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "542820",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "451248",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "518814",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498401",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "510419",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "531216",
+        "bandeira": "CREDIT CORPORATE BANCO INTERNACIONAL CHILE CL",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "452204",
+        "bandeira": "DEBIT ELECTRON",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "410127",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "511477",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "410749",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "470598",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "421847",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "404025",
+        "bandeira": "DEBIT PREPAID",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "482414",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "459077",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552433",
+        "bandeira": "CREDIT WORLD BANK OF AMERICA, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "515104",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "453409",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "453400",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552914",
+        "bandeira": "CREDIT PURCHASING",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "527680",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498407",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650921",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "412177",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "519704",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "407409",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536537",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "477175",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "458919",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "479564",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "222763",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "423072",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498555",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "548985",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "422005",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "374760",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "459384",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "422007",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552943",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "421845",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "651652",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "496046",
+        "bandeira": "DEBIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "419590",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498442",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "530428",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "400497",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "519759",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "423071",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "534806",
+        "bandeira": "DEBIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "530772",
+        "bandeira": "DEBIT PREPAID BUSINESS SWISS BANKERS PREPAID SERVICES AG SWITZERLAND CH",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "417998",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "377169",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "530780",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "517980",
+        "bandeira": "CREDIT GOLD BANCO CREDITO INVERSIONES CHILE CL",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "466248",
+        "bandeira": "CREDIT PLATINUM BANK OF CHINA, LTD. CHINA CN",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "435087",
+        "bandeira": "PREPAID CORPORATE T&E",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "524314",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "441174",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "534520",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "515894",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "544731",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552316",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "523425",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "534593",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "530049",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "464018",
+        "bandeira": "CREDIT CLASSIC CHASE BANK USA, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "512267",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "525922",
+        "bandeira": "CREDIT PREPAID",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "530033",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "537142",
+        "bandeira": "CREDIT MICRO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "483151",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "549738",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "476326",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "556926",
+        "bandeira": "CREDIT FLEET FIFTH THIRD BANK UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516159",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "410039",
+        "bandeira": "DEBIT CLASSIC CITIBANK N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "555270",
+        "bandeira": "PREPAID PURCHASING",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552305",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "231024",
+        "bandeira": "DEBIT CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "521899",
+        "bandeira": "CREDIT STANDARD BANK OF COMMUNICATIONS CHINA CN",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "374930",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650907",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650507",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "530599",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552894",
+        "bandeira": "CREDIT BUSINESS BANKIA, S.A. SPAIN ES",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516120",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "548056",
+        "bandeira": "CREDIT UNION BANK OF CALIFORNIA, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "523432",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "540205",
+        "bandeira": "DEBIT PLATINUM BANCO SABADELL, S.A. SPAIN ES",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "455148",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "543882",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "432034",
+        "bandeira": "CREDIT ELECTRON",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "480632",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "427168",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "520132",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "522078",
+        "bandeira": "CREDIT STANDARD INTERNATIONAL CARD SERVICES BV NETHERLANDS NL",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "420873",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "493101",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "481514",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "407600",
+        "bandeira": "CREDIT PURCHASING",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "489414",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "543798",
+        "bandeira": "CREDIT BANCO INVERLAT, S.A. MEXICO MX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "553627",
+        "bandeira": "CREDIT BLACK ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A. BOLIVIA, PLURINATIONAL STATE OF BO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "535456",
+        "bandeira": "DEBIT BUSINESS PUJSC FIDOBANK UKRAINE UA",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "540287",
+        "bandeira": "CREDIT WORLD SEB KORT BANK- DANMARK - FILIAL AF SEB KORT BANK AB - SWEDEN DENMARK DK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "470455",
+        "bandeira": "CREDIT SIGNATURE BBVA BANCO FRANCES, S.A. ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "512707",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "401563",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516291",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "525664",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "424631",
+        "bandeira": "CREDIT BUSINESS CHASE BANK USA, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "454642",
+        "bandeira": "CREDIT GOLD BANCO DE GALICIA Y BUENOS AIRES ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "545719",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "533728",
+        "bandeira": "DEBIT PREPAID BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "490985",
+        "bandeira": "DEBIT ELECTRON BARCLAYS BANK PLC PORTUGAL PT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "455187",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536805",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554612",
+        "bandeira": "CREDIT EXECUTIVE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "466068",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536518",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "535106",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536143",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "455188",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650948",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "477393",
+        "bandeira": "DEBIT ELECTRON",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650570",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "473702",
+        "bandeira": "DEBIT CLASSIC WELLS FARGO BANK, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "376608",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "481274",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "515640",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "545462",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "434692",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "407400",
+        "bandeira": "DEBIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "475776",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "544824",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "559337",
+        "bandeira": "CREDIT UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "422053",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "525328",
+        "bandeira": "CREDIT EUROPAY NORGE, A.S. NORWAY NO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "511361",
+        "bandeira": "DEBIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516096",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "534516",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "440066",
+        "bandeira": "CREDIT CLASSIC BANK OF AMERICA UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "419132",
+        "bandeira": "CREDIT CLASSIC BANCO BRADESCO, S.A. BRASIL BR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "531715",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "651653",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "553450",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "433828",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "532221",
+        "bandeira": "DEBIT BUSINESS JPMORGAN CHASE BANK, N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "546056",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "422200",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "376449",
+        "bandeira": "CREDIT PERSONAL PLATINUM CHARGE BANCO BRADESCO, S.A. BRASIL BR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "519123",
+        "bandeira": "CREDIT STANDARD BANK OF MONTREAL CANADA CA",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552937",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650914",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "589916",
+        "bandeira": "DEBIT MAESTRO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "376600",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554730",
+        "bandeira": "DEBIT PREPAID R",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "553096",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "655000",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "401684",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "491674",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "525663",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "479439",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "454148",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "454073",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "400234",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "423985",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "423074",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "404031",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "511740",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554288",
+        "bandeira": "CREDIT GOLD BBVA BANCO FRANCES ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "406168",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "478307",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "527468",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "548723",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "415918",
+        "bandeira": "CREDIT CORPORATE T&E",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536087",
+        "bandeira": "CREDIT PLATINUM HSBC BANK ARGENTINA S.A. ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "506741",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "376418",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "523679",
+        "bandeira": "CREDIT UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "489472",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "655001",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516275",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "498473",
+        "bandeira": "DEBIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "497717",
+        "bandeira": "DEBIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "523920",
+        "bandeira": "CREDIT PLATINUM BBVA BANCO FRANCES ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "553771",
+        "bandeira": "DEBIT STANDARD BANCO DE LA NACION ARGENTINA ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "528400",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650920",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "545368",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536069",
+        "bandeira": "DEBIT STANDARD BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA DOMINICAN REPUBLIC DO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "526879",
+        "bandeira": "CREDIT TITANIUM CITIGROUP PTY, LTD. AUSTRALIA AU",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "522273",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "528392",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "401973",
+        "bandeira": "DEBIT PREPAID FIRST-KNOX NATIONAL BANK UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "538893",
+        "bandeira": "CREDIT UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "489321",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "433830",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "376414",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "467567",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536510",
+        "bandeira": "DEBIT STANDARD KB KOOKMIN CARD CO., LTD. KOREA, REPUBLIC OF KR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "559202",
+        "bandeira": "CREDIT STANDARD CAT ADMINISTRADORA DE TARJETAS S.A. CHILE CL",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "526326",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "485011",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "544315",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "455599",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "523641",
+        "bandeira": "DEBIT PERSONAL PORTUGAL PT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "406997",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "528860",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "403230",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "371595",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "444458",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "526863",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "511781",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "651677",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "411049",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "434960",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "548573",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "409601",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "439354",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554927",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650527",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "456548",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "476333",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536295",
+        "bandeira": "CREDIT WORLD ABU DHABI COMMERCIAL BANK UNITED ARAB EMIRATES AE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "544570",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "651660",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "377791",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "531249",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "442548",
+        "bandeira": "DEBIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "548724",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "527130",
+        "bandeira": "CREDIT BLACK BANCO SANTANDER SOCIEDAD ANONIMA URUGUAY UY",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "542661",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516794",
+        "bandeira": "DEBIT STANDARD PUBLIC JOINT-STOCK COMPANY DV BANK UKRAINE UA",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "517231",
+        "bandeira": "CREDIT CORPORATE BANCO DE LA NACION ARGENTINA ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "552513",
+        "bandeira": "CREDIT CORPORATE NORDEA BANK AB (PUBL) SWEDEN SE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "375302",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "489391",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "434956",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "422174",
+        "bandeira": "CREDIT GOLD DZ BANK AG GERMANY DE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "404024",
+        "bandeira": "CREDIT CLASSIC  BRASIL BR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "423153",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "474175",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "456140",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "532930",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "460038",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "451769",
+        "bandeira": "DEBIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "459354",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "413015",
+        "bandeira": "DEBIT CORPORATE T&E KOMERCNI BANKA, A.S. CZECH REPUBLIC CZ",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "509061",
+        "bandeira": "DEBIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "549622",
+        "bandeira": "DEBIT PREPAID",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "377797",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "526966",
+        "bandeira": "CREDIT GOLD CAIXA ECONOMICA FEDERAL BRASIL BR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516585",
+        "bandeira": "CREDIT BLACK BBVA BANCO FRANCES ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "489167",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "459450",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "439931",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "454640",
+        "bandeira": "CREDIT CLASSIC BANCO DE GALICIA Y BUENOS AIRES ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "559198",
+        "bandeira": "CREDIT STANDARD CENCOSUD S.A. ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "433831",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "544883",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "477272",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "558285",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "418875",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "474227",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "529323",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "482481",
+        "bandeira": "DEBIT ELECTRON",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "483042",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "525855",
+        "bandeira": "DEBIT PREPAID R",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "451766",
+        "bandeira": "DEBIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "523284",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "512992",
+        "bandeira": "DEBIT ENHANCED",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536380",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "376409",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "414031",
+        "bandeira": "CREDIT CORPORATE T&E BC CARD KOREA, REPUBLIC OF KR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "454846",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "454075",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "554984",
+        "bandeira": "CREDIT WORLD VISECA CARD SERVICES S.A. SWITZERLAND CH",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "377168",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "442312",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "435086",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "455110",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516283",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "527789",
+        "bandeira": "DEBIT PREPAID",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "547860",
+        "bandeira": "CREDIT",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "548721",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "374648",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "559231",
+        "bandeira": "CREDIT WORLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "459454",
+        "bandeira": "CREDIT INFINITE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "496617",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "465865",
+        "bandeira": "DEBIT CLASSIC BARCLAYS BANK PLC UNITED KINGDOM GB",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "374761",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "493702",
+        "bandeira": "CREDIT BUSINESS",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "467481",
+        "bandeira": "CREDIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "454657",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650901",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "536233",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "411200",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "606282",
+        "bandeira": "DEBIT HIPERCARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "412487",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "423154",
+        "bandeira": "CREDIT CLASSIC BANCO BRADESCARD, S.A.  BRASIL BR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "527601",
+        "bandeira": "CREDIT BLACK BANCO DE LA NACION ARGENTINA ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "412187",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "433826",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "434589",
+        "bandeira": "CREDIT PLATINUM",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "412967",
+        "bandeira": "DEBIT CORPORATE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "421848",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "414709",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650512",
+        "bandeira": "CREDIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "459315",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "543627",
+        "bandeira": "CREDIT BLACK",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "430535",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "527451",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "515676",
+        "bandeira": "CREDIT WORLD ELITE CAPITAL ONE BANK (USA), N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "528093",
+        "bandeira": "DEBIT PREPAID R",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "410715",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "506722",
+        "bandeira": "DEBIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "512363",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "416598",
+        "bandeira": "DEBIT PREPAID",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "527497",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "545430",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "371559",
+        "bandeira": "CREDIT AMEX",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "650042",
+        "bandeira": "DEBIT ELO",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "530994",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "535858",
+        "bandeira": "CREDIT STANDARD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "465403",
+        "bandeira": "CREDIT SIGNATURE",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "516306",
+        "bandeira": "CREDIT GOLD",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "529115",
+        "bandeira": "CREDIT PLATINUM CAPITAL ONE BANK (USA), N.A. UNITED STATES US",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "483066",
+        "bandeira": "CREDIT CLASSIC",
+        "nivel": "99.9",
+        "valor": 0.0
+    },
+    {
+        "bin": "405071",
+        "bandeira": "CREDIT PLATINUM BANCO SANTANDER RIO, S.A. ARGENTINA AR",
+        "nivel": "99.9",
+        "valor": 0.0
+    }
+]

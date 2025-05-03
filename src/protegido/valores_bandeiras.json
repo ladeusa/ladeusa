@@ -1,0 +1,52 @@
+[
+    {
+        "bandeira": "MASTERCARD",
+        "nivel": "CREDIT PLATINUM",
+        "valor": 120.0
+    },
+    {
+        "bandeira": "VISA",
+        "nivel": "CREDIT PLATINUM",
+        "valor": 120.0
+    },
+    {
+        "bandeira": "VISA",
+        "nivel": "CREDIT INFINITE",
+        "valor": 160.0
+    },
+    {
+        "bandeira": "ELO",
+        "nivel": "CREDIT ELO",
+        "valor": 80.0
+    },
+    {
+        "bandeira": "VISA",
+        "nivel": "CREDIT GOLD",
+        "valor": 80.0
+    },
+    {
+        "bandeira": "VISA",
+        "nivel": "CREDIT CLASSIC",
+        "valor": 60.0
+    },
+    {
+        "bandeira": "MASTERCARD",
+        "nivel": "CREDIT STANDARD",
+        "valor": 50.0
+    },
+    {
+        "bandeira": "VISA",
+        "nivel": "CREDIT CORPORATE",
+        "valor": 180.0
+    },
+    {
+        "bandeira": "MASTERCARD",
+        "nivel": "CREDIT EXECUTIVE",
+        "valor": 120.0
+    },
+    {
+        "bandeira": "MASTERCARD",
+        "nivel": "CREDIT BLACK",
+        "valor": 180.0
+    }
+]
