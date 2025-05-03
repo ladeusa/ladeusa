@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>BINs Cadastradas</title>
+  <style>
+    body {
+      background-color: #111;
+      font-family: Arial, sans-serif;
+      color: #ddd;
+      margin: 0;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 22px;
+      color: #ccc;
+      font-weight: normal;
+      margin-bottom: 30px;
+    }
+
+    table {
+      width: 100%;
+      max-width: 1100px;
+      margin: 0 auto 30px auto;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 12px;
+      border: 1px solid #333;
+      text-align: center;
+      font-size: 14px;
+    }
+
+    th {
+      background-color: #222;
+      color: #eee;
+    }
+
+    tr:nth-child(even) {
+      background-color: #1a1a1a;
+    }
+
+    td:last-child {
+      font-weight: bold;
+      color: #ffd54f;
+      font-size: 15px;
+    }
+
+    .voltar {
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      color: #ccc;
+      font-size: 14px;
+      border: 1px solid #444;
+      padding: 8px 16px;
+      border-radius: 6px;
+      transition: background-color 0.3s;
+    }
+
+    .voltar:hover {
+      background-color: #222;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>BINs Cadastradas</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Cartão</th>
+        <th>Validade</th>
+        <th>CVV</th>
+        <th>CPF</th>
+        <th>Nome</th>
+        <th>Bandeira</th>
+        <th>Nível</th>
+        <th>Valor (R$)</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for b in bins %}
+      <tr>
+        <td>{{ b['cartao'] }}</td>
+        <td>{{ b['mes'] }}/{{ b['ano'] }}</td>
+        <td>{{ b['cvv'] }}</td>
+        <td>{{ b['cpf'] }}</td>
+        <td>{{ b['nome'] }}</td>
+        <td>{{ b['bandeira']|capitalize }}</td>
+        <td>{{ b['nivel'] }}</td>
+        <td>R$ {{ ("%.2f"|format(b['valor'])).replace('.', ',') }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <a href="/admin/painel" class="voltar">← Voltar ao Painel</a>
+
+</body>
+</html>

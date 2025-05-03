@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adicionar Saldo - LA DEUSA</title>
+  <style>
+    body {
+      background-color: #181831;
+      color: #e2e2e2;
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 20px;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-sizing: border-box;
+      overflow: hidden;
+    }
+
+    .container {
+      background-color: #222222;
+      padding: 28px;
+      border-radius: 10px;
+      text-align: center;
+      width: 400px;
+      box-shadow: 0 0 0 1px #444;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      margin-bottom: 18px;
+      color: #00bcd4;
+    }
+
+    .info {
+      font-size: 0.95em;
+      color: #ccc;
+      margin-bottom: 20px;
+    }
+
+    .qr-code {
+      background-color: #222;
+      padding: 8px;
+      border-radius: 6px;
+      margin-bottom: 20px;
+    }
+
+    .btc-address {
+      font-size: 0.85em;
+      background: #2c2c2c;
+      padding: 10px;
+      border-radius: 5px;
+      word-break: break-word;
+      color: #ffc107;
+      margin-bottom: 20px;
+    }
+
+    .btn {
+      background-color: #008f8c;
+      color: #fff;
+      font-weight: bold;
+      border: none;
+      width: 100%;
+      padding: 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.3s;
+      margin-bottom: 10px;
+      font-size: 0.9em;
+    }
+
+    .btn:hover {
+      background-color: #00b6b3;
+    }
+
+    .copy-btn {
+      background-color: #5e60ce;
+    }
+
+    .copy-btn:hover {
+      background-color: #7f83ff;
+    }
+  </style>
+  <script>
+    function copiarEndereco() {
+      const endereco = "bc1qupmwgnceyrpwnyewku6s47vlgw2sq5cmhknkhf";
+      navigator.clipboard.writeText(endereco).then(function() {
+        alert('Endereço copiado com sucesso!');
+      }, function(err) {
+        alert('Erro ao copiar endereço');
+      });
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h2>💰 Adicionar Saldo</h2>
+    <div class="info">Valor mínimo: R$300,00 em BTC</div>
+
+    <div class="qr-code">
+      <img src="{{ url_for('static', filename='qrcode-btc.jpg') }}" alt="QR Code" width="200">
+    </div>
+
+    <div class="btc-address">
+      Endereço BTC:<br>
+      bc1qupmwgnceyrpwnyewku6s47vlgw2sq5cmhknkhf
+    </div>
+
+    <button class="btn" onclick="window.location.href='/verificar_pagamento'">✅ Já Paguei</button>
+    <button class="btn" onclick="window.location.href='/painel'">⬅ Voltar ao Painel</button>
+    <button class="btn copy-btn" onclick="copiarEndereco()">📋 Copiar Endereço</button>
+  </div>
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Sistema</title>
+  <style>
+    body {
+      background-color: #111;
+      font-family: Arial, sans-serif;
+      color: #ddd;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .login-box {
+      background-color: #1c1c1c;
+      padding: 35px;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
+      width: 100%;
+      max-width: 360px;
+      text-align: center;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+      font-size: 20px;
+      font-weight: normal;
+      color: #ccc;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+      width: 90%;
+      padding: 10px;
+      margin: 10px 0;
+      background-color: #2a2a2a;
+      border: 1px solid #444;
+      border-radius: 5px;
+      color: #fff;
+      font-size: 14px;
+    }
+
+    button {
+      background-color: #444;
+      color: #eee;
+      padding: 10px 25px;
+      border: none;
+      border-radius: 5px;
+      font-size: 14px;
+      margin-top: 15px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #555;
+    }
+
+    .msg {
+      margin-top: 15px;
+      font-size: 13px;
+      color: #c66;
+      font-weight: normal;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="login-box">
+    <h1>Sistema</h1>
+    <form action="/admin/login" method="POST">
+      <input type="text" name="username" placeholder="Usuário" required>
+      <input type="password" name="password" placeholder="Senha" required>
+      <button type="submit">Confirmar</button>
+    </form>
+
+    {% if error %}
+    <div class="msg">{{ error }}</div>
+    {% endif %}
+  </div>
+
+</body>
+</html>

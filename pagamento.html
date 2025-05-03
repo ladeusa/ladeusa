@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pagamento - LA DEUSA</title>
+  <style>
+    body {
+      background: linear-gradient(rgba(10,10,15,0.94), rgba(5,5,10,0.94));
+      font-family: 'Poppins', sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      color: #fff;
+    }
+
+    .payment-container {
+      background: rgba(20, 20, 30, 0.85);
+      backdrop-filter: blur(10px);
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 0 25px rgba(0,0,0,0.8);
+      text-align: center;
+      max-width: 400px;
+      width: 100%;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+      color: #b39ddb;
+    }
+
+    .btc-address {
+      margin-bottom: 20px;
+      font-size: 1.1em;
+      color: #5c6bc0;
+      word-wrap: break-word;
+    }
+
+    .qr-code {
+      width: 200px;
+      height: 200px;
+      margin-bottom: 20px;
+    }
+
+    .finish-payment-btn {
+      background-color: #5c6bc0;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+      width: 100%;
+      transition: background-color 0.3s;
+    }
+
+    .finish-payment-btn:hover {
+      background-color: #7986cb;
+    }
+
+    .login {
+      margin-top: 15px;
+      font-size: 0.9em;
+    }
+
+    .login a {
+      color: #b39ddb;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .login a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="payment-container">
+    <h2>Pagamento - LA DEUSA</h2>
+    <p>Para completar seu cadastro, por favor, realize o pagamento abaixo:</p>
+    
+    <!-- Exibe o QR Code do BTC -->
+    <img src="{{ url_for('static', filename='qrcode-btc.jpg') }}" alt="QR Code" class="qr-code">
+    
+    <p class="btc-address">Endereço BTC: bc1qupmwgnceyrpwnyewku6s47vlgw2sq5cmhknkhf</p>
+    
+    <a href="/finalizar_pagamento" class="finish-payment-btn">Finalizar Pagamento</a>
+  </div>
+
+</body>
+</html>

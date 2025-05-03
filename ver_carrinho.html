@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carrinho de Compras - LA DEUSA</title>
+  <style>
+    body {
+      background-color: #1e1e2f;
+      color: #e2e2e2;
+      font-family: 'Poppins', sans-serif;
+      padding: 20px;
+    }
+
+    .flash {
+      padding: 15px;
+      margin: 10px auto;
+      border-radius: 8px;
+      max-width: 600px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .flash.danger {
+      background-color: #ff5252;
+      color: white;
+    }
+
+    .flash.success {
+      background-color: #00e676;
+      color: black;
+    }
+
+    h2 {
+      text-align: center;
+      color: #00bcd4;
+      margin-bottom: 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      background-color: #252537;
+      box-shadow: 0 0 12px rgba(0,0,0,0.3);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    th, td {
+      padding: 12px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #2a2a3d;
+      color: #b39ddb;
+      font-weight: bold;
+    }
+
+    tr:nth-child(even) {
+      background-color: #2c2c3f;
+    }
+
+    tr:hover {
+      background-color: #333;
+    }
+
+    .btn {
+      background-color: #00acc1;
+      color: white;
+      padding: 8px 16px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s ease;
+      display: inline-block;
+      margin: 10px;
+    }
+
+    .btn:hover {
+      background-color: #26c6da;
+    }
+
+    .btn-danger {
+      background-color: #ff5252;
+    }
+
+    .btn-danger:hover {
+      background-color: #ff7979;
+    }
+
+    .btn-success {
+      background-color: #4caf50;
+    }
+
+    .btn-success:hover {
+      background-color: #66bb6a;
+    }
+
+    .actions {
+      text-align: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Mensagens Flash -->
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+      {% for category, message in messages %}
+        <div class="flash {{ category }}">
+          {{ message }}
+        </div>
+      {% endfor %}
+    {% endif %}
+  {% endwith %}
+
+  <h2>🛒 Itens no Carrinho</h2>
+
+  {% if bins %}
+    <div style="text-align: center; margin-bottom: 20px;">
+      <a href="{{ url_for('limpar_carrinho') }}" class="btn btn-danger">🗑️ Limpar Carrinho</a>
+    </div>
+
+    <table>
+      <thead>
+        <tr>
+          <th>BIN</th>
+          <th>Bandeira</th>
+          <th>Nível</th>
+          <th>Valor (R$)</th>
+          <th>Excluir</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for bin in bins %}
+        <tr>
+          <td>{{ bin['bin'] }}</td>
+          <td>{{ bin['bandeira'] }}</td>
+          <td>{{ bin['nivel'] }}</td>
+          <td>R$ {{ "%.2f"|format(bin['valor']) }}</td>
+          <td>
+            <form method="POST" action="{{ url_for('remover_do_carrinho', bin_id=bin['bin']) }}">
+              <button type="submit" class="btn btn-danger">Excluir</button>
+            </form>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <div class="actions">
+      <form action="{{ url_for('finalizar_compra') }}" method="POST">
+        <button type="submit" class="btn btn-success">💳 Finalizar Compra</button>
+      </form>
+    </div>
+
+  {% else %}
+    <p style="text-align: center;">Carrinho vazio.</p>
+  {% endif %}
+
+  <div class="actions">
+    <a href="{{ url_for('catalogo_bins') }}" class="btn">← Voltar ao Catálogo</a>
+  </div>
+
+</body>
+</html>
