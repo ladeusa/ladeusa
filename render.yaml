@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: ladeusa
-    env: python
-    buildCommand: ""
-    startCommand: "python src/main.py"
-    envVars:
-      - key: FLASK_ENV
-        value: production
